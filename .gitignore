@@ -3,3 +3,4 @@ side_vertical
 h5py
 .ipynb_checkpoints
 sample/models
+sample/trained_model2.h5
